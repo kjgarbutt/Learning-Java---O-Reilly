@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/573742/internal/books/9781449319243/current/examples/ch22/magicbeans
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/567479/internal/books/9781449319243/current/examples/ch22/magicbeans/README.txt
+END
+BDK-License.txt
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/567479/internal/books/9781449319243/current/examples/ch22/magicbeans/BDK-License.txt
+END
+README-molecule.txt
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/567479/internal/books/9781449319243/current/examples/ch22/magicbeans/README-molecule.txt
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/567479/internal/books/9781449319243/current/examples/ch22/magicbeans/build.xml
+END
+magicbeans.manifest
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/567479/internal/books/9781449319243/current/examples/ch22/magicbeans/magicbeans.manifest
+END

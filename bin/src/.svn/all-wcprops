@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/580272/internal/books/9781449319243/current/examples/ch15/webapp-annotations/src
+END
+CookieCutter.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/!svn/ver/580272/internal/books/9781449319243/current/examples/ch15/webapp-annotations/src/CookieCutter.java
+END
+ShoppingCart.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/!svn/ver/580272/internal/books/9781449319243/current/examples/ch15/webapp-annotations/src/ShoppingCart.java
+END
+HelloClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/580272/internal/books/9781449319243/current/examples/ch15/webapp-annotations/src/HelloClient.java
+END
+ShowParameters.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/580272/internal/books/9781449319243/current/examples/ch15/webapp-annotations/src/ShowParameters.java
+END
+WaitServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/580272/internal/books/9781449319243/current/examples/ch15/webapp-annotations/src/WaitServlet.java
+END
+BackgroundWaitServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/!svn/ver/580272/internal/books/9781449319243/current/examples/ch15/webapp-annotations/src/BackgroundWaitServlet.java
+END
+MyLogin.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/580272/internal/books/9781449319243/current/examples/ch15/webapp-annotations/src/MyLogin.java
+END
+ErrorResponseFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/!svn/ver/580272/internal/books/9781449319243/current/examples/ch15/webapp-annotations/src/ErrorResponseFilter.java
+END
+LinkResponseFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/!svn/ver/580272/internal/books/9781449319243/current/examples/ch15/webapp-annotations/src/LinkResponseFilter.java
+END
+ShowSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/580272/internal/books/9781449319243/current/examples/ch15/webapp-annotations/src/ShowSession.java
+END
+ConLimitFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/580272/internal/books/9781449319243/current/examples/ch15/webapp-annotations/src/ConLimitFilter.java
+END
+TestFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/580272/internal/books/9781449319243/current/examples/ch15/webapp-annotations/src/TestFilter.java
+END
+BackgroundWaitService.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/!svn/ver/580272/internal/books/9781449319243/current/examples/ch15/webapp-annotations/src/BackgroundWaitService.java
+END
+RequestDefaultsFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/!svn/ver/580272/internal/books/9781449319243/current/examples/ch15/webapp-annotations/src/RequestDefaultsFilter.java
+END
+GetResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/580272/internal/books/9781449319243/current/examples/ch15/webapp-annotations/src/GetResource.java
+END

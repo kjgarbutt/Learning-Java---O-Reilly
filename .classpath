@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/ch02"/>
+	<classpathentry kind="src" path="src/ch03"/>
+	<classpathentry kind="src" path="src/ch07"/>
+	<classpathentry kind="src" path="src/ch08"/>
+	<classpathentry kind="src" path="src/ch09"/>
+	<classpathentry kind="src" path="src/ch10"/>
+	<classpathentry kind="src" path="src/ch11"/>
+	<classpathentry kind="src" path="src/ch12"/>
+	<classpathentry kind="src" path="src/ch13"/>
+	<classpathentry kind="src" path="src/ch14"/>
+	<classpathentry kind="src" path="src/ch15/webapp-annotations"/>
+	<classpathentry kind="src" path="src/ch15/webapp-xml"/>
+	<classpathentry kind="src" path="src/ch15/webservice-annotations"/>
+	<classpathentry kind="src" path="src/ch16"/>
+	<classpathentry kind="src" path="src/ch17"/>
+	<classpathentry kind="src" path="src/ch18"/>
+	<classpathentry kind="src" path="src/ch19"/>
+	<classpathentry kind="src" path="src/ch20"/>
+	<classpathentry kind="src" path="src/ch21"/>
+	<classpathentry kind="src" path="src/ch22/src"/>
+	<classpathentry kind="src" path="src/ch22/magicbeans/src"/>
+	<classpathentry kind="src" path="src/ch23"/>
+	<classpathentry kind="src" path="src/ch24"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/580272/internal/books/9781449319243/current/examples/ch15/webapp-annotations
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/580272/internal/books/9781449319243/current/examples/ch15/webapp-annotations/README.txt
+END
+min-web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/580272/internal/books/9781449319243/current/examples/ch15/webapp-annotations/min-web.xml
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/580272/internal/books/9781449319243/current/examples/ch15/webapp-annotations/build.xml
+END

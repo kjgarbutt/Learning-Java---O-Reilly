@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/567479/internal/books/9781449319243/current/examples/ch23
+END
+SignedTestWrite.jar
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/567479/internal/books/9781449319243/current/examples/ch23/SignedTestWrite.jar
+END
+Unsigned.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/567479/internal/books/9781449319243/current/examples/ch23/Unsigned.html
+END
+UnsignedTestWrite.jar
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/567479/internal/books/9781449319243/current/examples/ch23/UnsignedTestWrite.jar
+END
+createkey.sh
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/567479/internal/books/9781449319243/current/examples/ch23/createkey.sh
+END
+showapplet.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/567479/internal/books/9781449319243/current/examples/ch23/showapplet.html
+END
+Signed.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/567479/internal/books/9781449319243/current/examples/ch23/Signed.html
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/567479/internal/books/9781449319243/current/examples/ch23/build.xml
+END

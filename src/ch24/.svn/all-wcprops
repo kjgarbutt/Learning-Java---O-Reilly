@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/580278/internal/books/9781449319243/current/examples/ch24
+END
+Animal.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/580290/internal/books/9781449319243/current/examples/ch24/Animal.java
+END
+XSLTransform.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/580290/internal/books/9781449319243/current/examples/ch24/XSLTransform.java
+END
+zooinventory.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/580290/internal/books/9781449319243/current/examples/ch24/zooinventory.xsd
+END
+current.iws
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/580290/internal/books/9781449319243/current/examples/ch24/current.iws
+END
+zooinventory.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/580290/internal/books/9781449319243/current/examples/ch24/zooinventory.xml
+END
+chapter.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/580290/internal/books/9781449319243/current/examples/ch24/chapter.xml
+END
+Person.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/580290/internal/books/9781449319243/current/examples/ch24/Person.java
+END
+TestJAXBMarshall.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/580290/internal/books/9781449319243/current/examples/ch24/TestJAXBMarshall.java
+END
+JAXBExperiments.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/580290/internal/books/9781449319243/current/examples/ch24/JAXBExperiments.java
+END
+zooinventory.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/580290/internal/books/9781449319243/current/examples/ch24/zooinventory.xsl
+END
+TestJAXBUnmarshall.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/580290/internal/books/9781449319243/current/examples/ch24/TestJAXBUnmarshall.java
+END
+svn-commit.tmp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/580290/internal/books/9781449319243/current/examples/ch24/svn-commit.tmp
+END
+XMLGrep.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/580290/internal/books/9781449319243/current/examples/ch24/XMLGrep.java
+END
+TestDOM.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/580290/internal/books/9781449319243/current/examples/ch24/TestDOM.java
+END
+FoodRecipe.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/580290/internal/books/9781449319243/current/examples/ch24/FoodRecipe.java
+END
+zooinventory.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/580290/internal/books/9781449319243/current/examples/ch24/zooinventory.dtd
+END
+current.iml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/580290/internal/books/9781449319243/current/examples/ch24/current.iml
+END
+TestSAXModelBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/580290/internal/books/9781449319243/current/examples/ch24/TestSAXModelBuilder.java
+END
+SAXModelBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/580290/internal/books/9781449319243/current/examples/ch24/SAXModelBuilder.java
+END
+Address.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/580290/internal/books/9781449319243/current/examples/ch24/Address.java
+END
+PrintXInclude.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/580290/internal/books/9781449319243/current/examples/ch24/PrintXInclude.java
+END
+Validate.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/580290/internal/books/9781449319243/current/examples/ch24/Validate.java
+END
+current.ipr
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/580290/internal/books/9781449319243/current/examples/ch24/current.ipr
+END
+PrintDOM.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/580290/internal/books/9781449319243/current/examples/ch24/PrintDOM.java
+END
+Inventory.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/580290/internal/books/9781449319243/current/examples/ch24/Inventory.java
+END
